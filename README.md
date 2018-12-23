@@ -9,6 +9,4 @@ Merged with upstream project on 06.04.2018
 
 Made compatibility changes for android version >14 using as much material design as possible
 
-Feedback welcome
-
-dwi
+added ability to manage the expiration date of the last songs display!
