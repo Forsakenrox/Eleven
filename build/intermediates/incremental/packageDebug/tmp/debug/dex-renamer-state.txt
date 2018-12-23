@@ -1,0 +1,7 @@
+#Sun Dec 23 22:55:08 MSK 2018
+base.0=E\:\\Eleven-master\\build\\intermediates\\transforms\\dexMerger\\debug\\26
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\Eleven-master\\build\\intermediates\\transforms\\dexMerger\\debug\\27

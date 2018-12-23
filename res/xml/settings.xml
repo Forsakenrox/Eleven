@@ -75,4 +75,14 @@
             android:summary="@string/settings_delete_cache_summary"
             android:title="@string/settings_delete_cache_title" />
     </PreferenceCategory>
+    <PreferenceCategory android:title="@string/settings_storage_category" >
+        <!-- Delete cache -->
+        <ListPreference
+            android:key="last_added_interval"
+            android:defaultValue="2678400"
+            android:title="ListPreference title"
+            android:summary="ListPreference summary"
+            android:entries="@array/listentries"
+            android:entryValues="@array/listvalues" />
+    </PreferenceCategory>
 </PreferenceScreen>

@@ -24,5 +24,17 @@
         <item>@string/page_songs</item>
         <item>@string/page_playlists</item>
     </string-array>
+    <string-array name="listentries">
+        <item>1 месяц</item>
+        <item>6 месяцев</item>
+        <item>1 год</item>
+        <item>Без устаревания</item>
+    </string-array>
+    <string-array name="listvalues">
+        <item>2678400</item>
+        <item>16070400</item>
+        <item>32140800</item>
+        <item>0</item>
+    </string-array>
 
 </resources>

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Eleven-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-cy\\values-cy.xml",
+            "map": [
+                {
+                    "source": "E:\\Eleven-master\\res\\values-cy\\strings.xml",
+                    "from": {
+                        "startLines": "34,35,33",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "1258,1322,1198",
+                        "endColumns": "63,45,59",
+                        "endOffsets": "1319,1365,1255"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,121,169",
+                        "endColumns": "65,47,61",
+                        "endOffsets": "116,164,226"
+                    }
+                }
+            ]
+        }
+    ]
+}

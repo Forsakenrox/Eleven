@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Eleven-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fy-rNL\\values-fy-rNL.xml",
+            "map": [
+                {
+                    "source": "E:\\Eleven-master\\res\\values-fy-rNL\\strings.xml",
+                    "from": {
+                        "startLines": "28,41,36,37,42,38,39,40,22,27",
+                        "startColumns": "2,2,2,2,2,2,2,2,2,2",
+                        "startOffsets": "1094,1646,1334,1396,1712,1458,1520,1582,890,1055",
+                        "endColumns": "43,65,61,61,65,61,61,63,52,38",
+                        "endOffsets": "1135,1709,1393,1455,1775,1517,1579,1643,940,1091"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,169,233,297,365,429,493,559,614",
+                        "endColumns": "45,67,63,63,67,63,63,65,54,40",
+                        "endOffsets": "96,164,228,292,360,424,488,554,609,650"
+                    }
+                }
+            ]
+        }
+    ]
+}

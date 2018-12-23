@@ -14,10 +14,13 @@
 package org.lineageos.eleven.loaders;
 
 import android.content.Context;
+import android.content.SharedPreferences;
 import android.database.Cursor;
+import android.preference.PreferenceManager;
 import android.provider.BaseColumns;
 import android.provider.MediaStore;
 import android.provider.MediaStore.Audio.AudioColumns;
+import android.util.Log;
 
 import org.lineageos.eleven.model.Song;
 import org.lineageos.eleven.sectionadapter.SectionCreator;
@@ -103,11 +106,16 @@ public class LastAddedLoader extends SectionCreator.SimpleListLoader<Song> {
      */
     public static final Cursor makeLastAddedCursor(final Context context) {
         // timestamp of four weeks ago
-        long fourWeeksAgo = (System.currentTimeMillis() / 1000) - (4 * 3600 * 24 * 7);
+//        long fourWeeksAgo = (System.currentTimeMillis() / 1000) - (4 * 3600 * 24 * 7);
+        SharedPreferences mysettings = PreferenceManager.getDefaultSharedPreferences(context);
+        int intervalValue = Integer.valueOf(mysettings.getString("last_added_interval", ""));
+        long fourWeeksAgo = (System.currentTimeMillis() / 1000) - Long.valueOf(mysettings.getString("last_added_interval", ""));
         // possible saved timestamp caused by user "clearing" the last added playlist
         long cutoff = PreferenceUtils.getInstance(context).getLastAddedCutoff() / 1000;
         // use the most recent of the two timestamps
-        if(cutoff < fourWeeksAgo) { cutoff = fourWeeksAgo; }
+        if (intervalValue == 0){
+            cutoff = 0;
+        }else if(cutoff < fourWeeksAgo) { cutoff = fourWeeksAgo; }
 
         String selection = (AudioColumns.IS_MUSIC + "=1") +
                 " AND " + AudioColumns.TITLE + " != ''" +
