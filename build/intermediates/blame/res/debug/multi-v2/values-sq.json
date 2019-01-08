@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Eleven-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq\\values-sq.xml",
+            "outputFile": "E:\\Eleven\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq\\values-sq.xml",
             "map": [
                 {
-                    "source": "E:\\Eleven-master\\res\\values-sq\\plurals.xml",
+                    "source": "E:\\Eleven\\res\\values-sq\\plurals.xml",
                     "from": {
                         "startLines": "70,55,65,50,60,25,20,35,40,45,30",
                         "startColumns": "2,2,2,2,2,2,2,2,2,2,2",
@@ -57,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "E:\\Eleven-master\\res\\values-sq\\strings.xml",
+                    "source": "E:\\Eleven\\res\\values-sq\\strings.xml",
                     "from": {
                         "startLines": "66,67,68,35,19,81,82,83,80,51,53,64,63,62,55,56,111,103,102,105,104,58,100,94,97,89,90,98,95,88,91,92,101,93,99,28,29,96,87,86,33,31,32,57,49,54,60,52,23,22,26,25,21,24,47,70,36,50,106,108,107,110,109,76,75,74,77,78,73,72,41,40,38,45,44,43,42,39,59",
                         "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Eleven-master\AndroidManifest.xml:17:1-226:12
-INJECTED from E:\Eleven-master\AndroidManifest.xml:17:1-226:12
-INJECTED from E:\Eleven-master\AndroidManifest.xml:17:1-226:12
-INJECTED from E:\Eleven-master\AndroidManifest.xml:17:1-226:12
+ADDED from E:\Eleven\AndroidManifest.xml:17:1-226:12
+INJECTED from E:\Eleven\AndroidManifest.xml:17:1-226:12
+INJECTED from E:\Eleven\AndroidManifest.xml:17:1-226:12
+INJECTED from E:\Eleven\AndroidManifest.xml:17:1-226:12
 MERGED from [com.android.support:preference-v7:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.0.aar\fdeb9663cd4d3cfe88ece7c06d632fca\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\8208a2544569e846c39dcca4bf4f1fbf\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:palette-v7:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.0.aar\7837c0a199fd2fc1654cefe784236e4e\AndroidManifest.xml:17:1-22:12
@@ -22,26 +22,26 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Admin\.gradle\
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2842fde6f26bf85a1469d960ff60cb1b\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f0c746eca13578b2e9952a4b30248965\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\337b15cd9f50b0ea2bf2f550cafd6157\AndroidManifest.xml:17:1-22:12
-INJECTED from E:\Eleven-master\AndroidManifest.xml:17:1-226:12
-INJECTED from E:\Eleven-master\AndroidManifest.xml:17:1-226:12
-INJECTED from E:\Eleven-master\AndroidManifest.xml:17:1-226:12
+INJECTED from E:\Eleven\AndroidManifest.xml:17:1-226:12
+INJECTED from E:\Eleven\AndroidManifest.xml:17:1-226:12
+INJECTED from E:\Eleven\AndroidManifest.xml:17:1-226:12
 	package
-		ADDED from E:\Eleven-master\AndroidManifest.xml:18:5-35
-		INJECTED from E:\Eleven-master\AndroidManifest.xml
-		INJECTED from E:\Eleven-master\AndroidManifest.xml
+		ADDED from E:\Eleven\AndroidManifest.xml:18:5-35
+		INJECTED from E:\Eleven\AndroidManifest.xml
+		INJECTED from E:\Eleven\AndroidManifest.xml
 	android:versionName
-		ADDED from E:\Eleven-master\AndroidManifest.xml:20:5-30
-		INJECTED from E:\Eleven-master\AndroidManifest.xml
-		INJECTED from E:\Eleven-master\AndroidManifest.xml
+		ADDED from E:\Eleven\AndroidManifest.xml:20:5-30
+		INJECTED from E:\Eleven\AndroidManifest.xml
+		INJECTED from E:\Eleven\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\Eleven-master\AndroidManifest.xml:17:11-69
+		ADDED from E:\Eleven\AndroidManifest.xml:17:11-69
 	android:versionCode
-		ADDED from E:\Eleven-master\AndroidManifest.xml:19:5-28
-		INJECTED from E:\Eleven-master\AndroidManifest.xml
-		INJECTED from E:\Eleven-master\AndroidManifest.xml
+		ADDED from E:\Eleven\AndroidManifest.xml:19:5-28
+		INJECTED from E:\Eleven\AndroidManifest.xml
+		INJECTED from E:\Eleven\AndroidManifest.xml
 uses-sdk
-ADDED from E:\Eleven-master\AndroidManifest.xml:22:5-24:41
-INJECTED from E:\Eleven-master\AndroidManifest.xml:22:5-24:41
+ADDED from E:\Eleven\AndroidManifest.xml:22:5-24:41
+INJECTED from E:\Eleven\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:preference-v7:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.0.aar\fdeb9663cd4d3cfe88ece7c06d632fca\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:preference-v7:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.0.aar\fdeb9663cd4d3cfe88ece7c06d632fca\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\8208a2544569e846c39dcca4bf4f1fbf\AndroidManifest.xml:20:5-44
@@ -78,270 +78,270 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Admin\.gradle\caches
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f0c746eca13578b2e9952a4b30248965\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\337b15cd9f50b0ea2bf2f550cafd6157\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\337b15cd9f50b0ea2bf2f550cafd6157\AndroidManifest.xml:20:5-44
-INJECTED from E:\Eleven-master\AndroidManifest.xml:22:5-24:41
+INJECTED from E:\Eleven\AndroidManifest.xml:22:5-24:41
 	android:targetSdkVersion
-		ADDED from E:\Eleven-master\AndroidManifest.xml:24:9-38
-		INJECTED from E:\Eleven-master\AndroidManifest.xml
-		INJECTED from E:\Eleven-master\AndroidManifest.xml
+		ADDED from E:\Eleven\AndroidManifest.xml:24:9-38
+		INJECTED from E:\Eleven\AndroidManifest.xml
+		INJECTED from E:\Eleven\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from E:\Eleven-master\AndroidManifest.xml:23:9-35
+		ADDED from E:\Eleven\AndroidManifest.xml:23:9-35
 original-package
-ADDED from E:\Eleven-master\AndroidManifest.xml:26:5-63
+ADDED from E:\Eleven\AndroidManifest.xml:26:5-63
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:26:23-60
+		ADDED from E:\Eleven\AndroidManifest.xml:26:23-60
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\Eleven-master\AndroidManifest.xml:29:5-81
+ADDED from E:\Eleven\AndroidManifest.xml:29:5-81
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:29:22-78
+		ADDED from E:\Eleven\AndroidManifest.xml:29:22-78
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from E:\Eleven-master\AndroidManifest.xml:31:5-79
+ADDED from E:\Eleven\AndroidManifest.xml:31:5-79
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:31:22-76
+		ADDED from E:\Eleven\AndroidManifest.xml:31:22-76
 uses-permission#android.permission.INTERNET
-ADDED from E:\Eleven-master\AndroidManifest.xml:33:5-67
+ADDED from E:\Eleven\AndroidManifest.xml:33:5-67
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:33:22-64
+		ADDED from E:\Eleven\AndroidManifest.xml:33:22-64
 uses-permission#android.permission.WAKE_LOCK
-ADDED from E:\Eleven-master\AndroidManifest.xml:35:5-68
+ADDED from E:\Eleven\AndroidManifest.xml:35:5-68
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:35:22-65
+		ADDED from E:\Eleven\AndroidManifest.xml:35:22-65
 uses-permission#android.permission.BROADCAST_STICKY
-ADDED from E:\Eleven-master\AndroidManifest.xml:37:5-75
+ADDED from E:\Eleven\AndroidManifest.xml:37:5-75
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:37:22-72
+		ADDED from E:\Eleven\AndroidManifest.xml:37:22-72
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from E:\Eleven-master\AndroidManifest.xml:39:5-75
+ADDED from E:\Eleven\AndroidManifest.xml:39:5-75
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:39:22-72
+		ADDED from E:\Eleven\AndroidManifest.xml:39:22-72
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from E:\Eleven-master\AndroidManifest.xml:41:5-73
+ADDED from E:\Eleven\AndroidManifest.xml:41:5-73
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:41:22-70
+		ADDED from E:\Eleven\AndroidManifest.xml:41:22-70
 uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
-ADDED from E:\Eleven-master\AndroidManifest.xml:43:5-88
+ADDED from E:\Eleven\AndroidManifest.xml:43:5-88
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:43:22-85
+		ADDED from E:\Eleven\AndroidManifest.xml:43:22-85
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from E:\Eleven-master\AndroidManifest.xml:45:5-79
+ADDED from E:\Eleven\AndroidManifest.xml:45:5-79
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:45:22-77
+		ADDED from E:\Eleven\AndroidManifest.xml:45:22-77
 uses-permission#android.permission.WRITE_MEDIA_STORAGE
-ADDED from E:\Eleven-master\AndroidManifest.xml:47:5-78
+ADDED from E:\Eleven\AndroidManifest.xml:47:5-78
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:47:22-75
+		ADDED from E:\Eleven\AndroidManifest.xml:47:22-75
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from E:\Eleven-master\AndroidManifest.xml:50:5-71
+ADDED from E:\Eleven\AndroidManifest.xml:50:5-71
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:50:22-68
+		ADDED from E:\Eleven\AndroidManifest.xml:50:22-68
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from E:\Eleven-master\AndroidManifest.xml:51:5-80
+ADDED from E:\Eleven\AndroidManifest.xml:51:5-80
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:51:22-77
+		ADDED from E:\Eleven\AndroidManifest.xml:51:22-77
 uses-feature#android.hardware.sensor.accelerometer
-ADDED from E:\Eleven-master\AndroidManifest.xml:54:5-74
+ADDED from E:\Eleven\AndroidManifest.xml:54:5-74
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:54:19-71
+		ADDED from E:\Eleven\AndroidManifest.xml:54:19-71
 application
-ADDED from E:\Eleven-master\AndroidManifest.xml:56:5-224:19
+ADDED from E:\Eleven\AndroidManifest.xml:56:5-224:19
 	android:label
-		ADDED from E:\Eleven-master\AndroidManifest.xml:63:9-41
+		ADDED from E:\Eleven\AndroidManifest.xml:63:9-41
 	android:hardwareAccelerated
-		ADDED from E:\Eleven-master\AndroidManifest.xml:60:9-71
+		ADDED from E:\Eleven\AndroidManifest.xml:60:9-71
 	android:appCategory
-		ADDED from E:\Eleven-master\AndroidManifest.xml:61:9-36
+		ADDED from E:\Eleven\AndroidManifest.xml:61:9-36
 	android:allowTaskReparenting
-		ADDED from E:\Eleven-master\AndroidManifest.xml:59:9-44
+		ADDED from E:\Eleven\AndroidManifest.xml:59:9-44
 	android:largeHeap
-		ADDED from E:\Eleven-master\AndroidManifest.xml:64:9-51
+		ADDED from E:\Eleven\AndroidManifest.xml:64:9-51
 	android:icon
-		ADDED from E:\Eleven-master\AndroidManifest.xml:62:9-43
+		ADDED from E:\Eleven\AndroidManifest.xml:62:9-43
 	android:allowBackup
-		ADDED from E:\Eleven-master\AndroidManifest.xml:58:9-35
+		ADDED from E:\Eleven\AndroidManifest.xml:58:9-35
 	android:theme
-		ADDED from E:\Eleven-master\AndroidManifest.xml:66:9-44
+		ADDED from E:\Eleven\AndroidManifest.xml:66:9-44
 	android:taskAffinity
-		ADDED from E:\Eleven-master\AndroidManifest.xml:65:9-57
+		ADDED from E:\Eleven\AndroidManifest.xml:65:9-57
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:57:9-62
+		ADDED from E:\Eleven\AndroidManifest.xml:57:9-62
 meta-data#android.app.default_searchable
-ADDED from E:\Eleven-master\AndroidManifest.xml:69:9-71:61
+ADDED from E:\Eleven\AndroidManifest.xml:69:9-71:61
 	android:value
-		ADDED from E:\Eleven-master\AndroidManifest.xml:71:13-58
+		ADDED from E:\Eleven\AndroidManifest.xml:71:13-58
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:70:13-58
+		ADDED from E:\Eleven\AndroidManifest.xml:70:13-58
 activity#org.lineageos.eleven.ui.activities.HomeActivity
-ADDED from E:\Eleven-master\AndroidManifest.xml:73:9-101:20
+ADDED from E:\Eleven\AndroidManifest.xml:73:9-101:20
 	android:launchMode
-		ADDED from E:\Eleven-master\AndroidManifest.xml:76:13-43
+		ADDED from E:\Eleven\AndroidManifest.xml:76:13-43
 	android:windowSoftInputMode
-		ADDED from E:\Eleven-master\AndroidManifest.xml:75:13-52
+		ADDED from E:\Eleven\AndroidManifest.xml:75:13-52
 	android:exported
-		ADDED from E:\Eleven-master\AndroidManifest.xml:77:13-36
+		ADDED from E:\Eleven\AndroidManifest.xml:77:13-36
 	android:theme
-		ADDED from E:\Eleven-master\AndroidManifest.xml:78:13-66
+		ADDED from E:\Eleven\AndroidManifest.xml:78:13-66
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:74:13-75
+		ADDED from E:\Eleven\AndroidManifest.xml:74:13-75
 intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.MUSIC_PLAYER+category:name:android.intent.category.APP_MUSIC+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
-ADDED from E:\Eleven-master\AndroidManifest.xml:79:13-86:29
+ADDED from E:\Eleven\AndroidManifest.xml:79:13-86:29
 action#android.intent.action.MAIN
-ADDED from E:\Eleven-master\AndroidManifest.xml:80:17-69
+ADDED from E:\Eleven\AndroidManifest.xml:80:17-69
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:80:25-66
+		ADDED from E:\Eleven\AndroidManifest.xml:80:25-66
 action#android.intent.action.MUSIC_PLAYER
-ADDED from E:\Eleven-master\AndroidManifest.xml:81:17-77
+ADDED from E:\Eleven\AndroidManifest.xml:81:17-77
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:81:25-74
+		ADDED from E:\Eleven\AndroidManifest.xml:81:25-74
 category#android.intent.category.LAUNCHER
-ADDED from E:\Eleven-master\AndroidManifest.xml:83:17-77
+ADDED from E:\Eleven\AndroidManifest.xml:83:17-77
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:83:27-74
+		ADDED from E:\Eleven\AndroidManifest.xml:83:27-74
 category#android.intent.category.APP_MUSIC
-ADDED from E:\Eleven-master\AndroidManifest.xml:84:17-78
+ADDED from E:\Eleven\AndroidManifest.xml:84:17-78
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:84:27-75
+		ADDED from E:\Eleven\AndroidManifest.xml:84:27-75
 category#android.intent.category.DEFAULT
-ADDED from E:\Eleven-master\AndroidManifest.xml:85:17-76
+ADDED from E:\Eleven\AndroidManifest.xml:85:17-76
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:85:27-73
+		ADDED from E:\Eleven\AndroidManifest.xml:85:27-73
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/albums+data:mimeType:vnd.android.cursor.dir/artists+data:mimeType:vnd.android.cursor.dir/playlist
-ADDED from E:\Eleven-master\AndroidManifest.xml:87:13-95:29
+ADDED from E:\Eleven\AndroidManifest.xml:87:13-95:29
 action#android.intent.action.VIEW
-ADDED from E:\Eleven-master\AndroidManifest.xml:88:17-69
+ADDED from E:\Eleven\AndroidManifest.xml:88:17-69
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:88:25-66
+		ADDED from E:\Eleven\AndroidManifest.xml:88:25-66
 data
-ADDED from E:\Eleven-master\AndroidManifest.xml:92:17-76
+ADDED from E:\Eleven\AndroidManifest.xml:92:17-76
 	android:scheme
-		ADDED from E:\Eleven-master\AndroidManifest.xml:137:23-47
+		ADDED from E:\Eleven\AndroidManifest.xml:137:23-47
 	android:mimeType
-		ADDED from E:\Eleven-master\AndroidManifest.xml:92:23-73
+		ADDED from E:\Eleven\AndroidManifest.xml:92:23-73
 intent-filter#action:name:org.lineageos.eleven.AUDIO_PLAYER+category:name:android.intent.category.DEFAULT
-ADDED from E:\Eleven-master\AndroidManifest.xml:96:13-100:29
+ADDED from E:\Eleven\AndroidManifest.xml:96:13-100:29
 action#org.lineageos.eleven.AUDIO_PLAYER
-ADDED from E:\Eleven-master\AndroidManifest.xml:97:17-76
+ADDED from E:\Eleven\AndroidManifest.xml:97:17-76
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:97:25-73
+		ADDED from E:\Eleven\AndroidManifest.xml:97:25-73
 activity#org.lineageos.eleven.ui.activities.SearchActivity
-ADDED from E:\Eleven-master\AndroidManifest.xml:104:9-119:20
+ADDED from E:\Eleven\AndroidManifest.xml:104:9-119:20
 	android:windowSoftInputMode
-		ADDED from E:\Eleven-master\AndroidManifest.xml:106:13-55
+		ADDED from E:\Eleven\AndroidManifest.xml:106:13-55
 	android:exported
-		ADDED from E:\Eleven-master\AndroidManifest.xml:107:13-36
+		ADDED from E:\Eleven\AndroidManifest.xml:107:13-36
 	android:theme
-		ADDED from E:\Eleven-master\AndroidManifest.xml:108:13-48
+		ADDED from E:\Eleven\AndroidManifest.xml:108:13-48
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:105:13-77
+		ADDED from E:\Eleven\AndroidManifest.xml:105:13-77
 intent-filter#action:name:android.intent.action.MEDIA_SEARCH+action:name:android.intent.action.SEARCH+category:name:android.intent.category.DEFAULT
-ADDED from E:\Eleven-master\AndroidManifest.xml:109:13-114:29
+ADDED from E:\Eleven\AndroidManifest.xml:109:13-114:29
 action#android.intent.action.SEARCH
-ADDED from E:\Eleven-master\AndroidManifest.xml:110:17-71
+ADDED from E:\Eleven\AndroidManifest.xml:110:17-71
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:110:25-68
+		ADDED from E:\Eleven\AndroidManifest.xml:110:25-68
 action#android.intent.action.MEDIA_SEARCH
-ADDED from E:\Eleven-master\AndroidManifest.xml:111:17-77
+ADDED from E:\Eleven\AndroidManifest.xml:111:17-77
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:111:25-74
+		ADDED from E:\Eleven\AndroidManifest.xml:111:25-74
 meta-data#android.app.searchable
-ADDED from E:\Eleven-master\AndroidManifest.xml:116:13-118:54
+ADDED from E:\Eleven\AndroidManifest.xml:116:13-118:54
 	android:resource
-		ADDED from E:\Eleven-master\AndroidManifest.xml:118:17-51
+		ADDED from E:\Eleven\AndroidManifest.xml:118:17-51
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:117:17-54
+		ADDED from E:\Eleven\AndroidManifest.xml:117:17-54
 activity#org.lineageos.eleven.ui.activities.SettingsActivity
-ADDED from E:\Eleven-master\AndroidManifest.xml:121:9-124:69
+ADDED from E:\Eleven\AndroidManifest.xml:121:9-124:69
 	android:label
-		ADDED from E:\Eleven-master\AndroidManifest.xml:123:13-50
+		ADDED from E:\Eleven\AndroidManifest.xml:123:13-50
 	android:theme
-		ADDED from E:\Eleven-master\AndroidManifest.xml:124:13-66
+		ADDED from E:\Eleven\AndroidManifest.xml:124:13-66
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:122:13-79
+		ADDED from E:\Eleven\AndroidManifest.xml:122:13-79
 activity#org.lineageos.eleven.ui.activities.preview.AudioPreviewActivity
-ADDED from E:\Eleven-master\AndroidManifest.xml:126:9-166:20
+ADDED from E:\Eleven\AndroidManifest.xml:126:9-166:20
 	android:excludeFromRecents
-		ADDED from E:\Eleven-master\AndroidManifest.xml:129:13-46
+		ADDED from E:\Eleven\AndroidManifest.xml:129:13-46
 	android:launchMode
-		ADDED from E:\Eleven-master\AndroidManifest.xml:128:13-44
+		ADDED from E:\Eleven\AndroidManifest.xml:128:13-44
 	android:theme
-		ADDED from E:\Eleven-master\AndroidManifest.xml:131:13-54
+		ADDED from E:\Eleven\AndroidManifest.xml:131:13-54
 	android:taskAffinity
-		ADDED from E:\Eleven-master\AndroidManifest.xml:130:13-36
+		ADDED from E:\Eleven\AndroidManifest.xml:130:13-36
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:127:13-71
+		ADDED from E:\Eleven\AndroidManifest.xml:127:13-71
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:content
-ADDED from E:\Eleven-master\AndroidManifest.xml:132:13-142:29
+ADDED from E:\Eleven\AndroidManifest.xml:132:13-142:29
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:file
-ADDED from E:\Eleven-master\AndroidManifest.xml:143:13-153:29
+ADDED from E:\Eleven\AndroidManifest.xml:143:13-153:29
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:http
-ADDED from E:\Eleven-master\AndroidManifest.xml:154:13-165:29
+ADDED from E:\Eleven\AndroidManifest.xml:154:13-165:29
 category#android.intent.category.BROWSABLE
-ADDED from E:\Eleven-master\AndroidManifest.xml:158:17-78
+ADDED from E:\Eleven\AndroidManifest.xml:158:17-78
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:158:27-75
+		ADDED from E:\Eleven\AndroidManifest.xml:158:27-75
 receiver#org.lineageos.eleven.appwidgets.AppWidgetSmall
-ADDED from E:\Eleven-master\AndroidManifest.xml:168:9-179:20
+ADDED from E:\Eleven\AndroidManifest.xml:168:9-179:20
 	android:label
-		ADDED from E:\Eleven-master\AndroidManifest.xml:171:13-53
+		ADDED from E:\Eleven\AndroidManifest.xml:171:13-53
 	android:exported
-		ADDED from E:\Eleven-master\AndroidManifest.xml:170:13-37
+		ADDED from E:\Eleven\AndroidManifest.xml:170:13-37
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:169:13-74
+		ADDED from E:\Eleven\AndroidManifest.xml:169:13-74
 intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
-ADDED from E:\Eleven-master\AndroidManifest.xml:172:13-174:29
+ADDED from E:\Eleven\AndroidManifest.xml:172:13-174:29
 action#android.appwidget.action.APPWIDGET_UPDATE
-ADDED from E:\Eleven-master\AndroidManifest.xml:173:17-84
+ADDED from E:\Eleven\AndroidManifest.xml:173:17-84
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:173:25-81
+		ADDED from E:\Eleven\AndroidManifest.xml:173:25-81
 meta-data#android.appwidget.provider
-ADDED from E:\Eleven-master\AndroidManifest.xml:176:13-178:60
+ADDED from E:\Eleven\AndroidManifest.xml:176:13-178:60
 	android:resource
-		ADDED from E:\Eleven-master\AndroidManifest.xml:178:17-57
+		ADDED from E:\Eleven\AndroidManifest.xml:178:17-57
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:177:17-58
+		ADDED from E:\Eleven\AndroidManifest.xml:177:17-58
 receiver#org.lineageos.eleven.appwidgets.AppWidgetLarge
-ADDED from E:\Eleven-master\AndroidManifest.xml:181:9-192:20
+ADDED from E:\Eleven\AndroidManifest.xml:181:9-192:20
 	android:label
-		ADDED from E:\Eleven-master\AndroidManifest.xml:184:13-53
+		ADDED from E:\Eleven\AndroidManifest.xml:184:13-53
 	android:exported
-		ADDED from E:\Eleven-master\AndroidManifest.xml:183:13-37
+		ADDED from E:\Eleven\AndroidManifest.xml:183:13-37
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:182:13-74
+		ADDED from E:\Eleven\AndroidManifest.xml:182:13-74
 receiver#org.lineageos.eleven.appwidgets.AppWidgetLargeAlternate
-ADDED from E:\Eleven-master\AndroidManifest.xml:194:9-205:20
+ADDED from E:\Eleven\AndroidManifest.xml:194:9-205:20
 	android:label
-		ADDED from E:\Eleven-master\AndroidManifest.xml:197:13-57
+		ADDED from E:\Eleven\AndroidManifest.xml:197:13-57
 	android:exported
-		ADDED from E:\Eleven-master\AndroidManifest.xml:196:13-37
+		ADDED from E:\Eleven\AndroidManifest.xml:196:13-37
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:195:13-83
+		ADDED from E:\Eleven\AndroidManifest.xml:195:13-83
 receiver#org.lineageos.eleven.MediaButtonIntentReceiver
-ADDED from E:\Eleven-master\AndroidManifest.xml:207:9-212:20
+ADDED from E:\Eleven\AndroidManifest.xml:207:9-212:20
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:207:19-80
+		ADDED from E:\Eleven\AndroidManifest.xml:207:19-80
 intent-filter#action:name:android.intent.action.MEDIA_BUTTON+action:name:android.media.AUDIO_BECOMING_NOISY
-ADDED from E:\Eleven-master\AndroidManifest.xml:208:13-211:29
+ADDED from E:\Eleven\AndroidManifest.xml:208:13-211:29
 action#android.intent.action.MEDIA_BUTTON
-ADDED from E:\Eleven-master\AndroidManifest.xml:209:17-77
+ADDED from E:\Eleven\AndroidManifest.xml:209:17-77
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:209:25-74
+		ADDED from E:\Eleven\AndroidManifest.xml:209:25-74
 action#android.media.AUDIO_BECOMING_NOISY
-ADDED from E:\Eleven-master\AndroidManifest.xml:210:17-77
+ADDED from E:\Eleven\AndroidManifest.xml:210:17-77
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:210:25-74
+		ADDED from E:\Eleven\AndroidManifest.xml:210:25-74
 receiver#org.lineageos.eleven.locale.LocaleChangeReceiver
-ADDED from E:\Eleven-master\AndroidManifest.xml:214:9-218:20
+ADDED from E:\Eleven\AndroidManifest.xml:214:9-218:20
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:214:19-62
+		ADDED from E:\Eleven\AndroidManifest.xml:214:19-62
 intent-filter#action:name:android.intent.action.LOCALE_CHANGED
-ADDED from E:\Eleven-master\AndroidManifest.xml:215:13-217:29
+ADDED from E:\Eleven\AndroidManifest.xml:215:13-217:29
 action#android.intent.action.LOCALE_CHANGED
-ADDED from E:\Eleven-master\AndroidManifest.xml:216:17-78
+ADDED from E:\Eleven\AndroidManifest.xml:216:17-78
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:216:25-76
+		ADDED from E:\Eleven\AndroidManifest.xml:216:25-76
 service#org.lineageos.eleven.MusicPlaybackService
-ADDED from E:\Eleven-master\AndroidManifest.xml:220:9-223:39
+ADDED from E:\Eleven\AndroidManifest.xml:220:9-223:39
 	android:process
-		ADDED from E:\Eleven-master\AndroidManifest.xml:223:13-36
+		ADDED from E:\Eleven\AndroidManifest.xml:223:13-36
 	android:label
-		ADDED from E:\Eleven-master\AndroidManifest.xml:222:13-45
+		ADDED from E:\Eleven\AndroidManifest.xml:222:13-45
 	android:name
-		ADDED from E:\Eleven-master\AndroidManifest.xml:221:13-69
+		ADDED from E:\Eleven\AndroidManifest.xml:221:13-69

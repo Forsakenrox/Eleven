@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Eleven-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ast-rES\\values-ast-rES.xml",
+            "outputFile": "E:\\Eleven\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ast-rES\\values-ast-rES.xml",
             "map": [
                 {
-                    "source": "E:\\Eleven-master\\res\\values-ast-rES\\strings.xml",
+                    "source": "E:\\Eleven\\res\\values-ast-rES\\strings.xml",
                     "from": {
                         "startLines": "78,77,76,79,85,82,83,84,80,81,19,100,99,60,63,74,72,70,69,68,67,71,73,62,64,133,104,105,103,102,106,125,124,127,126,65,122,116,119,111,112,120,117,110,113,114,123,115,121,30,32,118,109,31,108,43,44,42,35,34,39,37,40,36,38,41,61,23,22,26,27,28,25,21,24,57,59,128,130,129,132,131,87,91,93,92,95,94,96,97,90,89,50,49,47,52,55,54,53,51,48",
                         "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "E:\\Eleven-master\\res\\values-ast-rES\\plurals.xml",
+                    "source": "E:\\Eleven\\res\\values-ast-rES\\plurals.xml",
                     "from": {
                         "startLines": "66,51,61,46,56,21,31,36,41,26",
                         "startColumns": "2,2,2,2,2,2,2,2,2,2",

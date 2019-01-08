@@ -1,4 +1,4 @@
-#Sun Dec 23 22:55:07 MSK 2018
-base.0=E\:\\Eleven-master\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+#Tue Dec 25 21:11:40 MSK 2018
+base.0=E\:\\Eleven\\build\\intermediates\\transforms\\dexMerger\\debug\\4
 path.0=classes.dex
 renamed.0=classes.dex

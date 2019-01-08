@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Eleven-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "outputFile": "E:\\Eleven\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\8208a2544569e846c39dcca4bf4f1fbf\\res\\values-port\\values-port.xml",

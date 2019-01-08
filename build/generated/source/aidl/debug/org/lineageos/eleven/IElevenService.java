@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: E:\\Eleven-master\\src\\main\\aidl\\org\\lineageos\\eleven\\IElevenService.aidl
+ * Original file: E:\\Eleven\\src\\main\\aidl\\org\\lineageos\\eleven\\IElevenService.aidl
  */
 package org.lineageos.eleven;
 public interface IElevenService extends android.os.IInterface

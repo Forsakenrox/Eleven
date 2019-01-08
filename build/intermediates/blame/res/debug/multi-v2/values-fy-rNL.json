@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Eleven-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fy-rNL\\values-fy-rNL.xml",
+            "outputFile": "E:\\Eleven\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fy-rNL\\values-fy-rNL.xml",
             "map": [
                 {
-                    "source": "E:\\Eleven-master\\res\\values-fy-rNL\\strings.xml",
+                    "source": "E:\\Eleven\\res\\values-fy-rNL\\strings.xml",
                     "from": {
                         "startLines": "28,41,36,37,42,38,39,40,22,27",
                         "startColumns": "2,2,2,2,2,2,2,2,2,2",
